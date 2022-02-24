@@ -1,5 +1,5 @@
 # computer_names
 
 - `arios`
-    - Thinkpad X140 
+    - Thinkpad X140e
  
